@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(4, 4, 31);
+}
+table{
+    color: rgb(253, 0, 0);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(253, 0, 0);
+}
+h1{
+    color: rgb(253, 0, 0);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Alen{
+    display: flex;
+    gap: 30px;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(253, 0, 0);
+}
+.Alex{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: inherit;
+}
+.family{
+    display: flex;
+    gap: 80px;
+}
